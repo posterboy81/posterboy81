@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matthew Simpson
-- 👀 I’m interested in coding.  That's pretty much it
-- 🌱 I’m currently learning JavaScript/Node.js
+- 👀 I’m interested in coding and movies
+- 🌱 I’m currently learning JavaScript/Node.js, for now. 
 - 💞️ I’m looking to collaborate on whatever you need help with!
 - 📫 How to reach me: mcsimpson [at] gmail [dot] com
 
